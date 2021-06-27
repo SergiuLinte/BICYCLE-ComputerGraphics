@@ -1,0 +1,31 @@
+﻿  Patrat.c
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(21,19): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(21,25): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(21,31): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(35,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(98,13): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(104,14): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(487,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(567,1): warning C4029: declared formal parameter list different from definition
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(797,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(797,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(797,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(845,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(845,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(845,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(755,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(756,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(758,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(759,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(761,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(762,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(764,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(765,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(770,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(771,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(773,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(774,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(893,27): warning C4133: 'function': incompatible types - from 'char [10]' to 'LPCWSTR'
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(908,55): warning C4028: formal parameter 1 different from declaration
+D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Patrat.c(909,57): warning C4028: formal parameter 1 different from declaration
+  Bicicleta_1.vcxproj -> D:\Cursuri anul 2\Anul 2 Sergiu\Sem2\grafica\PROIECT BICICLETA\fourth try-the best one so far\Debug\Bicicleta_1.exe
